@@ -15,3 +15,9 @@ https://medium.com/@abmhd/attacktive-directory-thm-writeup-e88d76aa519a
 # 3- Wonderland
 
 https://medium.com/@abmhd/wonderland-thm-writeup-9b52e7c7d745
+
+# 4- Cyberrafted
+
+https://medium.com/@abmhd/cybercrafted-thm-writeup-165220615d68
+
+
