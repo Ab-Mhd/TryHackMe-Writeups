@@ -6,7 +6,7 @@ A series of blog posts detailing steps taken to solve machines on TryHackMe
 
 ### :walking:	Walkthrough: https://medium.com/@abmhd/mr-robot-thm-walkthrough-7a52d6767777
 
-### :door: Room: https://tryhackme.com/rooms/
+### :door: Room: https://tryhackme.com/rooms/mrrobot
 
 ### :books: Learning Objectives:
 - directory enumeration
