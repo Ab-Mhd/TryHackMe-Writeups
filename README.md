@@ -84,3 +84,24 @@ A series of blog posts detailing steps taken to solve machines on TryHackMe
 #### :hammer_and_wrench:	Tools used: 
 - gobuster 
 - sqlmap
+
+
+
+# 5- RootMe
+
+### :walking:	Walkthrough: https://medium.com/@abmhd/rootme-thm-writeup-c45e9914acd7
+### :door: Room: https://tryhackme.com/rooms/rootme
+
+
+
+### :books: Learning Objectives:
+
+- Subdirectory Enumeration
+- Esclation through binaries with SUID set.
+- php reverse shell
+
+#### :hammer_and_wrench:	Tools used: 
+- gobuster 
+- GTFObins
+
+
